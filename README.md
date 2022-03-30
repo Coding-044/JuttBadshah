@@ -18,21 +18,21 @@
 <Jutt>Simply ! Type These Below Commands In Terminal </Badshah>
 <ul>
 <h1>installation</h1>
-    <li>apt-get update</li>
-    <li>apt-get upgrade</li>
-    <li>apt install python2</li>
-    <li>apt install git</li>
-    <li>pip2 install requests</li>
-    <li>pip2 install mechanize</li>
-    <li>pip2 install bs4 futures</li>
+    <li>pkg update</li>
+    <li>pkg upgrade</li>
+    <li>pkg install python</li>
+    <li>pkg install git</li>
+    <li>pip install requests</li>
+    <li>pip install mechanize</li>
+    <li>pip install bs4 futures</li>
     <li>rm -rf $HOME/JuttBadshah
     <li>git clone https://github.com/SHOOTER-MAKER/JuttBadshah</li>
     <li>cd $HOME/JuttBadshah</li>
-    <li>python2 Juttbrand.py</li>
+    <li>python Juttbrand.py</li>
 </ul>
 <h1>Usage</h1>
 <li>cd $HOME/JuttBadshah</li>
-<li>python2 Juttbrand.py</li>
+<li>python Juttbrand.py</li>
 </ul>
 <h1>My Contact Links</h1>
 <p>Personal Chat Whatsapp <a href="https://bit.ly/3qANBWS" target="_blank">Click</a>.</p>
